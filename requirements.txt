@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+fastapi
+uvicorn
+gunicorn==19.9.0
+uvloop
+httptools
+Pillow==9.3.0
+tensorflow-cpu==2.11.0
