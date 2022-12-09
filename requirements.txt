@@ -5,8 +5,9 @@ matplotlib
 pandas
 fastapi
 uvicorn
-gunicorn==19.9.0
+gunicorn==20.1.0
 uvloop
 httptools
 Pillow==9.3.0
 tensorflow-cpu==2.11.0
+twilio==7.12.1
