@@ -6,7 +6,7 @@ from keras.models import load_model
 import urllib.request
 
 #Load the trained model. (Pickle file)
-my_model = load_model('./models/Crack_Detection_InceptionV3_model.h5')
+my_model = load_model('./Models/Crack_Detection_InceptionV3_model.h5')
 
 def getPrediction(img_path):
     SIZE = 150 
